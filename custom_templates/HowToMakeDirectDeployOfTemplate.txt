@@ -1,0 +1,5 @@
+Syntax:
+https://portal.azure.com/#create/Microsoft.Template/uri/<encoded_path_to_template>
+
+Example:
+https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fnrrpinto%2Fazure%2Fmain%2Fcustom_templates%2FNewSFTPwithNewStorageAccount.json
